@@ -4,6 +4,9 @@
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 
+<h2>📄 Certifications </h2>
+  - [Cisco Certified Network Associate] (https://www.credly.com/badges/58153f94-4fec-447f-85de-6f6a7f7fb829/linked_in_profile)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
