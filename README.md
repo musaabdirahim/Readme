@@ -1,20 +1,18 @@
-<h1>Hi, I'm Muse! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Muse! <a href="https://www.linkedin.com/in/musa-abdirahim-759913235/"> An Aspiring IT Professional</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📄 Certifications </h2>
-  - [Cisco Certified Network Associate] (https://www.credly.com/badges/58153f94-4fec-447f-85de-6f6a7f7fb829/linked_in_profile)
-
+ 
+  <h2>📄 Certifications </h2>
+  
+  - [CCNA - Cisco Certified Network Associate](https://www.credly.com/badges/58153f94-4fec-447f-85de-6f6a7f7fb829/public_url)
+  - [CompTIA Security+](https://www.credly.com/earner/earned/badge/fef5f829-9d0d-41ee-a48d-25e573abf330)
+  - [CompTIA Network+](https://www.credly.com/earner/earned/badge/0b15f6e3-06eb-492b-815e-ea293f4a275a)
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
