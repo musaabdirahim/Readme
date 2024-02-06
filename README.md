@@ -1,4 +1,4 @@
-<h1>Hi, I'm Muse! <a href="https://www.linkedin.com/in/musa-abdirahim-759913235/"> An Aspiring IT Professional</a></h1>
+<h1>Hi, I'm Muse! <a href="https://www.linkedin.com/in/musa-abdirahim-759913235/"> An IT Professional</a></h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
